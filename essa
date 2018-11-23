@@ -1,0 +1,10 @@
+<p>Wybierz produkt:</p>
+					<p><select name="owoce2" multiple size="7">
+					<optgroup label="Owoce miekkie">
+					<option value="Truskawki"> Truskawki</option>
+					<option value="Maliny"> Maliny</option>
+					<option value="Poziomki"> Poziomki</option>
+					</optgroup><optgroup label="Owoce twarde">
+					<option value="Jablka"> Jablka</option>
+					<option value="Gruszki">Gruszki</option></select></p>
+					<p><button type="submit" name="guzik1">Wyslij</button></p>
